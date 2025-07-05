@@ -1,0 +1,15 @@
+flask
+langchain
+langchain-community
+langchain-openai
+openai
+dotenv
+pypdf
+pdf2image
+pytesseract
+docx2txt
+unstructured[all-docs]
+python-pptx
+faiss-cpu
+tqdm
+Flask-Session
