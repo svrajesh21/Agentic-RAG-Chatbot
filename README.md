@@ -40,16 +40,27 @@ python app.py
 
 ## 📂 Project Structure
 ├── app.py
+
 ├── agents/
+
 │   ├── ingestion_agent.py
+
 │   ├── retrieval_agent.py
+
 │   └── llm_response_agent.py
+
 ├── templates/
+
 │   └── index.html
+
 ├── static/ (optional assets)
+
 ├── utils/
+
 │   └── mcp.py
+
 ├── .env
+
 └── requirements.txt
 
 ## 🧪 Supported Formats
